@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act16side_ex05","actions":[{"type":"Deploy","name":"澄闪","location":[2,4],"direction":"Up","costs":2},{"type":"Deploy","name":"陈","location":[1,4],"direction":"Up","costs":2}],"doc":{"title":"吾导先路·复刻 -","details":"吾导先路·复刻 -"},"groups":[],"opers":[{"name":"澄闪","skill":3,"skill_usage":1},{"name":"陈","skill":1,"skill_usage":1}]}

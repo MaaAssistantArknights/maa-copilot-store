@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"WB-1","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"煌","location":[1,1],"direction":"Right"}],"doc":{"title":"登临意 WB-1 摆完挂机 萧然攻略","details":"煌"},"groups":[],"opers":[{"name":"煌","skill":2,"skill_usage":0}]}
