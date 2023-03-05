@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act24side_03","actions":[{"type":"Deploy","name":"煌","location":[8,1],"direction":"Down"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"落叶逐火 - CF-3 - 迎头痛击 命辰","details":"UP：命辰\nScript：luckyluke\nhttps://www.bilibili.com/video/BV1w8411c7Qc"},"groups":[],"opers":[{"name":"煌","skill":2,"skill_usage":0}]}

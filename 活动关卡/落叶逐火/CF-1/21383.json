@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act24side_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"煌","location":[1,5],"direction":"Right"},{"type":"SkillDaemon"}],"doc":{"title":"落叶逐火 - CF-1 - 森林里的麻烦家伙 命辰","details":"UP：命辰\nScript：luckyluke\nhttps://www.bilibili.com/video/BV1q84y1P7nx"},"groups":[],"opers":[{"name":"煌","skill":2,"skill_usage":0}]}
