@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"山","location":[2,3],"direction":"Up","cooling":1,"cost_changes":0},{"type":"Deploy","name":"山","location":[2,3],"direction":"Up","cooling":1,"cost_changes":0}],"doc":{"title":"第一章 黑暗时代·下 - 1-7 - 暴君","details":"只用"},"groups":[],"opers":[{"name":"山","skill":2,"skill_usage":2}],"difficulty":1}
