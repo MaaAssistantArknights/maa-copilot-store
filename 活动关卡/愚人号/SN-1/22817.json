@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act17side_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"拉普兰德","location":[2,3],"direction":"Down"}],"doc":{"title":"愚人号 - SN-1 - 中心广场","details":"愚人号 - SN-1 - 中心广场"},"groups":[],"opers":[{"name":"拉普兰德","skill":2,"skill_usage":0}]}
