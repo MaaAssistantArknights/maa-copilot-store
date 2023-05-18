@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_01","actions":[{"type":"Deploy","name":"令","location":[3,2],"direction":"Right"},{"type":"SkillUsage","name":"令","skill_usage":1},{"type":"SkillDaemon"}],"doc":{"title":"火蓝之心·复刻 - OF-1 - 火山制造21","details":"火蓝之心·复刻 - OF-1 - 火山制造"},"groups":[],"opers":[{"name":"桃金娘","skill":2,"skill_usage":0},{"name":"令","skill":3,"skill_usage":0}]}
