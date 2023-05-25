@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"level_act38rune_01-01","actions":[{"type":"Deploy","name":"焰影苇草","location":[3,6],"direction":"Right"},{"type":"SkillDaemon"}],"doc":{"title":"打年糕自用","details":"打年糕自用"},"groups":[],"opers":[{"name":"焰影苇草","skill":2,"skill_usage":1},{"name":"星熊","skill":3,"skill_usage":1}]}
