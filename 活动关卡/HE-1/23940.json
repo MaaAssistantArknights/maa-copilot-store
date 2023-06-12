@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act26side_01","actions":[{"type":"Deploy","name":"令","location":[21,3],"direction":"Up","kills":0,"costs":12}],"doc":{"title":"勿用 测试","details":"勿用 测试"},"groups":[],"opers":[{"name":"令","skill":1,"skill_usage":0}]}
