@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"mem_wyvern_1","actions":[{"type":"Deploy","name":"克洛丝","location":[7,5],"direction":"Up"},{"type":"SpeedUp"}],"doc":{"title":"先锋 - 香草 - 告别软弱","details":"香草悖论模拟 克洛丝凹暴击"},"groups":[],"opers":[{"name":"克洛丝","skill":1,"skill_usage":0}]}
