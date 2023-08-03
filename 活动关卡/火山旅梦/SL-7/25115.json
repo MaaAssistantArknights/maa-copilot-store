@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act27side_07","actions":[{"type":"Deploy","name":"斥罪","location":[2,3],"direction":"Right","costs":36}],"doc":{"title":"火山旅梦 - SL-7 - 靠着我的肩膀哭泣","details":"斥罪单人 自用"},"groups":[],"opers":[{"name":"斥罪","skill":3,"skill_usage":1},{"name":"鸿雪","skill":1,"skill_usage":0}]}
