@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act27side_02","actions":[{"type":"Deploy","name":"山","location":[4,4],"direction":"Down"},{"type":"Deploy","name":"能天使","location":[4,6],"direction":"Up"}],"doc":{"title":"火山旅梦 - SL-2 山能双核挂机","details":"火山旅梦 - SL-2 - 小蓝孩"},"groups":[],"opers":[{"name":"山","skill":2,"skill_usage":2},{"name":"能天使","skill":3,"skill_usage":0}]}
