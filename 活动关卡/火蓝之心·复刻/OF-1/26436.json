@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"百炼嘉维尔","location":[5,3],"direction":"Right"},{"type":"SkillDaemon"}],"doc":{"title":"OF-1 百炼嘉维尔模组任务1 链锯强袭10次","details":"建议先做2任务再做1任务\n2任务也有maa作业\n没咋用心写，你都of了都maa了不是靠后台时间换精力？（笑）\n一局能开三次"},"groups":[],"opers":[{"name":"百炼嘉维尔","skill":2,"skill_usage":1}]}
