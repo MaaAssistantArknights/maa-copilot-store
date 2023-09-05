@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act28side_01","actions":[{"type":"Deploy","name":"棘刺","location":[7,3],"direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"CV-1 - 孤独之地","details":"制作者:一路微笑\n棘刺 3技能"},"groups":[],"opers":[{"name":"棘刺","skill":3,"skill_usage":1}]}
