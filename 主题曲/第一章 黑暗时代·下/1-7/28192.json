@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"桃金娘","location":[1,3],"direction":"Right"},{"type":"Deploy","name":"泥岩","location":[2,3],"direction":"Right","costs":35}],"doc":{"title":"泥岩单刷","details":"泥岩单刷"},"groups":[],"opers":[{"name":"泥岩","skill":2,"skill_usage":0},{"name":"桃金娘","skill":1,"skill_usage":1}],"difficulty":1}
