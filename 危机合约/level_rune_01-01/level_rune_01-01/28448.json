@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"level_rune_01-01","actions":[{"type":"Deploy","name":"山","location":[7,2],"direction":"Right","costs":11},{"type":"Skill","name":"山","location":[7,2]},{"type":"SpeedUp"}],"doc":{"title":"66","details":"66"},"groups":[],"opers":[{"name":"山","skill":2,"skill_usage":2}]}
