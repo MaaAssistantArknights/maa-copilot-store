@@ -1,1 +1,0 @@
-{"minimum_required":"v4.0.0","stage_name":"TN-2","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"年","location":[3,4],"direction":"Right","costs":20},{"type":"Deploy","name":"令","location":[4,4],"direction":"Right","costs":10,"pre_delay":500,"rear_delay":400}],"doc":{"title":"TN-2 恢宏 众岁同心（默认干员）【施工中】","details":"TN-2 恢宏 众岁同心（默认干员）【施工中】\n9"},"groups":[],"opers":[]}

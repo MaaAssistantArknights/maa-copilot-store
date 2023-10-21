@@ -1,1 +1,0 @@
-{"minimum_required":"v4.0.0","stage_name":"a001_01","actions":[{"type":"Deploy","name":"阿米娅","location":[4,3],"direction":"Down"}],"doc":{"title":"test","details":"test"},"groups":[],"opers":[{"name":"\"夹子\"","skill":1,"skill_usage":0},{"name":"“清平”","skill":1,"skill_usage":0},{"name":"“逍遥”","skill":1,"skill_usage":0}]}
