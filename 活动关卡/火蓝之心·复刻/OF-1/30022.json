@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"山","location":[5,3],"direction":"Right","costs":11},{"type":"Skill","costs":12,"name":"山"},{"type":"SkillDaemon"}],"doc":{"title":"火蓝之心·复刻 - OF-1 - 火山制造","details":"火蓝之心·复刻 - OF-1 - 火山制造"},"groups":[],"opers":[{"name":"山","skill":2,"skill_usage":0}]}
