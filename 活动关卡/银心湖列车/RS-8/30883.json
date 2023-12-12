@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act30side_08","actions":[{"type":"Deploy","name":"令","location":[9,2],"direction":"None","costs":10}],"doc":{"title":"银心湖列车 - RS-8 - 极限时速","details":"银心湖列车 - RS-8 - 极限时速"},"groups":[],"opers":[{"name":"阿米娅","skill":1,"skill_usage":0},{"name":"令","skill":3,"skill_usage":0}]}
