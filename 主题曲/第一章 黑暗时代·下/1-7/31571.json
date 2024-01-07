@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"泥岩","location":[2,3],"direction":"Down","costs":36},{"type":"SpeedUp"}],"doc":{"title":"自用1-7刷信赖","details":"自用1-7刷信赖"},"groups":[],"opers":[{"name":"泥岩","skill":2,"skill_usage":0}],"difficulty":1}
