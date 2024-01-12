@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act18d3_tr01","actions":[{"type":"Deploy","name":"卡缇","location":[1,2],"direction":"Right"},{"type":"Deploy","name":"玫兰莎","location":[2,3],"direction":"Up"},{"type":"SkillDaemon"}],"doc":{"title":"SV-TR-1 - 疼痛增幅","details":"SV-TR-1 - 疼痛增幅"},"groups":[],"opers":[{"name":"卡缇","skill":1,"skill_usage":1}]}
