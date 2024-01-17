@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"SpeedUp"},{"type":"SpeedUp","costs":33},{"type":"Deploy","name":"泥岩","location":[2,3],"direction":"Down"},{"type":"SpeedUp"}],"doc":{"title":"1-7 自用 泥岩","details":"1-7 自用 泥岩"},"groups":[],"opers":[{"name":"泥岩","skill":2,"skill_usage":0}],"difficulty":1}
