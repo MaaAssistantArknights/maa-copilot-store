@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act31side_tr02","actions":[{"type":"Deploy","name":"炎熔","location":[6,3],"direction":"Right"},{"type":"Deploy","name":"芙蓉","location":[5,1],"direction":"Down"},{"type":"Deploy","name":"炎熔","location":[4,3],"direction":"Right"}],"doc":{"title":"HS-TR-2 - 引水疏浚","details":"HS-TR-2 - 引水疏浚"},"groups":[],"opers":[]}

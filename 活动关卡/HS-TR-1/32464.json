@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act31side_tr01","actions":[{"type":"Deploy","name":"斑点","location":[2,3],"direction":"Down"},{"type":"Deploy","name":"芙蓉","location":[4,3],"direction":"Left"},{"type":"Deploy","name":"空爆","location":[1,2],"direction":"Down","pre_delay":1000},{"type":"SpeedUp"}],"doc":{"title":"HS-TR-1","details":"HS-1 - 赴大荒"},"groups":[],"opers":[]}
