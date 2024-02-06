@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_05","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"推进之王","location":[8,3],"direction":"Left"},{"type":"Deploy","name":"黍","location":[6,3],"direction":"Left"}],"doc":{"title":"test","details":"test"},"groups":[],"opers":[{"name":"黍","skill":1,"skill_usage":0},{"name":"推进之王","skill":2,"skill_usage":0}]}
