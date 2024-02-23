@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act4bossrush_04","actions":[{"type":"Deploy","name":"圣约送葬人","location":[8,5],"direction":"Left"}],"doc":{"title":"测试地图坐标","details":"测试地图坐标"},"groups":[],"opers":[{"name":"圣约送葬人","skill":3,"skill_usage":0}]}

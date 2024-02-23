@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act4bossrush_04","actions":[{"type":"Deploy","name":"山","location":[9,5],"direction":"None"}],"doc":{"title":"测试deploy","details":"测试deploy"},"groups":[],"opers":[{"skill_times":1,"name":"山","skill":2,"skill_usage":2}]}
