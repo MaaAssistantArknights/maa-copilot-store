@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act14side_tr01","actions":[{"type":"Deploy","name":"克洛丝","location":[1,4],"direction":"Right"},{"type":"Deploy","name":"炎熔","location":[3,3],"direction":"Up"},{"type":"SkillDaemon"}],"doc":{"title":"风雪过境·复刻 - BI-TR-1 - 小心地滑","details":"up:侬无言以对"},"groups":[],"opers":[]}
