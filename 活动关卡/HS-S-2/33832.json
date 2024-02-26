@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act31side_s02#f#","actions":[{"type":"SkillDaemon","cost_changes":9,"pre_delay":7000}],"doc":{"title":"HS-S","details":"自用"},"groups":[],"opers":[{"name":"桃金娘","skill":1,"skill_usage":1}],"difficulty":3}
