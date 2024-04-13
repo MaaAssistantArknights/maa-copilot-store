@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act33side_tr01","actions":[{"type":"Deploy","name":"狙击","location":[8,3],"direction":"Down","costs":40},{"type":"Deploy","name":"杰西卡","location":[8,3],"direction":"Down","costs":40},{"type":"Deploy","name":"先锋","location":[9,2],"direction":"Down"}],"doc":{"title":"BB-TR-1","details":"测试中，勿用"},"groups":[],"opers":[]}
