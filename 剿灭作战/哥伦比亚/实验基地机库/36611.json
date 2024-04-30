@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"camp_r_14","actions":[{"type":"Skill","name":"桃金娘","location":[7,7]},{"type":"SkillDaemon"}],"doc":{"title":"哥伦比亚 - 实验基地机库 - 实验基地机库","details":"哥伦比亚 - 实验基地机库 - 实验基地机库"},"groups":[],"opers":[{"name":"桃金娘","skill":1,"skill_usage":1}]}
