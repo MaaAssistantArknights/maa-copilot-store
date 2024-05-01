@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_01","actions":[{"type":"Deploy","name":"银灰","location":[5,3],"direction":"Right"},{"type":"SpeedUp"},{"type":"Skill","name":"银灰","location":[5,3]}],"doc":{"title":"火蓝之心·复刻 - OF-1 - 火山制造","details":"火蓝之心·复刻 - OF-1 - 火山制造"},"groups":[],"opers":[{"name":"银灰","skill":3,"skill_usage":0}]}
