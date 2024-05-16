@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_00-07","actions":[{"type":"Deploy","name":"山","location":[5,3],"direction":"Right"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"序章 黑暗时代·上 - 0-7 - 感染","details":"精二603"},"groups":[],"opers":[{"skill_times":1,"name":"山","skill":2,"skill_usage":2}],"difficulty":3}
