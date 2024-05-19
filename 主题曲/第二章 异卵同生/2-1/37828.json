@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_02-01","actions":[{"type":"Deploy","name":"山","location":[1,1],"direction":"Down"},{"type":"Skill","name":"山","location":[1,1]},{"type":"SpeedUp"}],"doc":{"title":"第二章 异卵同生 - 2-1 - 龙门之行","details":"第二章 异卵同生 - 2-1 - 龙门之行"},"groups":[],"opers":[{"skill_times":1,"name":"山","skill":2,"skill_usage":2}],"difficulty":3}
