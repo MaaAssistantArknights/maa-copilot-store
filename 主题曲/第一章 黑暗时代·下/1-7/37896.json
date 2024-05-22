@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"空弦","location":[5,2],"direction":"Right","costs":14},{"type":"Deploy","name":"能天使","location":[5,4],"direction":"Right","costs":13},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"1-7 自用","details":"1-7 自用"},"groups":[],"opers":[{"name":"能天使"},{"name":"空弦"}]}
