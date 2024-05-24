@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act25side_02","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"羽毛笔","location":[2,3],"direction":"Left"},{"type":"SkillDaemon"}],"doc":{"title":"孤星 - CW-2 - 无迹可寻","details":"放个可爱的羽毛笔在这里\n满潜2803+3很稳"},"groups":[],"opers":[{"name":"羽毛笔","skill":1,"skill_usage":0}]}
