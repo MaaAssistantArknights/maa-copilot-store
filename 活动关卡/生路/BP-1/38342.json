@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act34side_01","actions":[{"type":"Deploy","name":"维什戴尔","location":[7,5],"direction":"Up"},{"type":"SpeedUp"},{"type":"Skill","name":"维什戴尔","location":[7,5],"kills":5},{"type":"SkillDaemon"}],"doc":{"title":"生路 - BP-1 - 第一次接触 - 单核","details":"维神满配"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}

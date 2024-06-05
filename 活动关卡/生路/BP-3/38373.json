@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act34side_03","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"煌","location":[2,2],"direction":"Right"}],"doc":{"title":"生路 - BP-3 - 如海雪纷散","details":"作业来自于av1955321962。\n作业作者祈星_Estrella，json作者天平"},"groups":[],"opers":[{"name":"煌","skill":2,"skill_usage":0}]}

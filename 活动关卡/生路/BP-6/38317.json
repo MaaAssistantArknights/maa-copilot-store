@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act34side_06","actions":[{"type":"Deploy","name":"维什戴尔","location":[3,4],"direction":"Right"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"ew单人 生路 - BP-6 - 阿戈尔失格","details":"ew单人 生路 - BP-6 - 阿戈尔失格"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}

@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act34side_03","actions":[{"type":"Deploy","name":"维什戴尔","location":[1,3],"direction":"Right"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"ew单人 生路 - BP-3 - 如海雪纷散","details":"ew单人 生路 - BP-3 - 如海雪纷散"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}

@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act34side_01","actions":[{"type":"Deploy","name":"维什戴尔","location":[5,3],"direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"ew单人 生路 - BP-1 - 第一次接触","details":"ew单人 生路 - BP-1 - 第一次接触"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}
