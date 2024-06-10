@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_01","actions":[{"type":"SpeedUp"},{"type":"SpeedUp","costs":20,"rear_delay":170},{"type":"Deploy","name":"逻各斯","location":[9,4],"direction":"Left"},{"type":"SpeedUp","kills":4},{"type":"SkillDaemon"}],"doc":{"title":"自用-火蓝之心- OF-1 - 火山制造","details":"每日信用点（需手动添加助战）"},"groups":[],"opers":[{"name":"逻各斯","skill":1,"skill_usage":0}]}
