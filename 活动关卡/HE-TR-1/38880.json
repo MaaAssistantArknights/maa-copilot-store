@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act26side_tr01","actions":[{"type":"SpeedUp"},{"type":"SpeedUp","costs":30,"pre_delay":3000},{"type":"Deploy","name":"备用木材","location":[5,5],"direction":"None"},{"type":"SkillDaemon"}],"doc":{"title":"HE-TR-1 - 祷告良辰","details":"3杀的位置可能点不上跳过剧情，跟maa抢一下就行"},"groups":[],"opers":[]}
