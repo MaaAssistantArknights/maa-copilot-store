@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act17side_05","actions":[{"type":"Deploy","name":"维什戴尔","location":[6,1],"direction":"Down"},{"type":"Skill","pre_delay":10000,"name":"维什戴尔","location":[6,1]},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"愚人号 - SN-5 - 灯塔控制室 - 单核","details":"维什戴尔单"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":0}]}
