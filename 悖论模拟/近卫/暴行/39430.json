@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"mem_savage_1","actions":[{"type":"Deploy","name":"暴行","location":[2134512,125],"direction":"None"}],"doc":{"title":"别用这个！","details":"这个悖论模拟难度很低但是轴很难对，每个人延迟都不一样，别用MAA了，动动你的脑子吧"},"groups":[],"opers":[{"name":"暴行","skill":1,"skill_usage":0}]}

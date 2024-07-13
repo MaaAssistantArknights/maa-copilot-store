@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"sub_02-01","actions":[{"type":"Deploy","name":"维什戴尔","location":[8,1],"direction":"Down"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"第二章 异卵同生 - S2-1 - 迟缓-1","details":"第二章 异卵同生 - S2-1 - 迟缓-1"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}

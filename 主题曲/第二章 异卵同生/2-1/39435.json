@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_02-01","actions":[{"type":"Deploy","name":"维什戴尔","location":[8,1],"direction":"Down"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"第二章 异卵同生 - 2-1 - 龙门之行","details":"第二章 异卵同生 - 2-1 - 龙门之行"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}],"difficulty":1}
