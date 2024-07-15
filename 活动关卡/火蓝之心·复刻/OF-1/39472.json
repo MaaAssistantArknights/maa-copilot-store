@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_01","actions":[{"type":"SpeedUp","costs":6},{"type":"Deploy","name":"逻各斯","location":[3,3],"direction":"Right"}],"doc":{"title":"自用-火蓝之心·复刻 - OF-1 - 火山制造","details":"刷刷每周任务"},"groups":[],"opers":[{"name":"逻各斯","skill":1,"skill_usage":0}]}
