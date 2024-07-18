@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"羽毛笔","location":[1,3],"direction":"Right","costs":21}],"doc":{"title":"1-7 羽毛笔单人速刷 自用","details":"个人拉满 但目测精二1级无专精就能刷 强度不大"},"groups":[],"opers":[{"name":"羽毛笔","skill":1,"skill_usage":0}],"difficulty":0}
