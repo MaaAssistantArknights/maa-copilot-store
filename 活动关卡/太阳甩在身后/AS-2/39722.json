@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act35side_02","actions":[{"type":"Deploy","name":"山","location":[1,3],"direction":"Right"}],"doc":{"title":"太阳甩在身后 - AS-2 - 馆中特别行动","details":"自己做着玩的\n参考视频：https://www.bilibili.com/video/BV16M4m1y72q"},"groups":[],"opers":[{"skill_times":1,"name":"山","skill":2,"skill_usage":2}]}
