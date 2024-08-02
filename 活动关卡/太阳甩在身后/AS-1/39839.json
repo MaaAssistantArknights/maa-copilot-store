@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act35side_01","actions":[{"type":"Deploy","name":"维什戴尔","location":[1,4],"direction":"Right"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"太阳甩在身后 - AS-1 - 节前热身","details":"@晓丶梦丶仁"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}

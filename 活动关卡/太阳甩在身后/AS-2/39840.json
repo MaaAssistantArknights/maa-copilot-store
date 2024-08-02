@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act35side_02","actions":[{"type":"Deploy","name":"维什戴尔","location":[4,3],"direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"太阳甩在身后 - AS-2 - 馆中特别行动","details":"@晓丶梦丶仁"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}

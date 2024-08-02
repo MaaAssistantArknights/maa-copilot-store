@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"mem_cement_1","actions":[{"type":"Deploy","name":"洋灰","location":[7,3],"direction":"Left"},{"type":"SpeedUp"},{"type":"Skill","name":"洋灰","location":[7,3]}],"doc":{"title":"【洋灰】悖论模拟 - 无坚不陷","details":"自用\n二技能 lv4应该可以过"},"groups":[],"opers":[{"name":"洋灰","skill":2,"skill_usage":0}]}
