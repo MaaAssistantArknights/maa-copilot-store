@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act20side_02","actions":[{"type":"Deploy","name":"逻各斯","location":[2,3],"direction":"Right","costs":21},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"理想城：长夏狂欢季 - IC-2 - 下坠","details":"2603逻各斯"},"groups":[],"opers":[{"name":"逻各斯","skill":1,"skill_usage":0}]}
