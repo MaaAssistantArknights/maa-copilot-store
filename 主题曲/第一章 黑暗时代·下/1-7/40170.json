@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"煌","location":[1,3],"direction":"Right","costs":23}],"doc":{"title":"MAA TEST #10187","details":"自用，测试 MAA 功能"},"groups":[],"opers":[{"name":"煌","skill":2,"skill_usage":0},{"name":"史都华德","skill":1,"skill_usage":0}]}
