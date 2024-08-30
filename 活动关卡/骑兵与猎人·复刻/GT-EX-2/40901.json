@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a001_ex02","actions":[{"type":"Deploy","name":"维什戴尔","location":[1,3],"direction":"Right"},{"type":"SkillUsage","name":"维什戴尔","skill_usage":1},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"骑兵与猎人·复刻 - GT-EX-2 - 老无所依","details":"骑兵与猎人·复刻 - GT-EX-2 - 老无所依"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}
