@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act28side_04","actions":[{"type":"SpeedUp"},{"type":"Deploy","doc_color":"DarkRed","doc":"纯粹的强大","name":"维什戴尔","location":[5,4],"direction":"Right"},{"type":"SkillDaemon"}],"doc":{"title":"CV-4 - 缺席的人","details":"2903三模ew"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":0}]}
