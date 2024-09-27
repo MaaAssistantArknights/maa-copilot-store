@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1vecb_01","actions":[{"type":"SpeedUp","pre_delay":2000},{"type":"Deploy","name":"乌尔比安","location":[4,1],"direction":"Down"}],"doc":{"title":"VEC-01 - 拳拳生风","details":"自用刷分，配置：26070+特别战线全通（前四"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}]}
