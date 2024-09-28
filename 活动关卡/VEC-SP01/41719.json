@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1vecb_sp01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"都可以","location":[3,4],"direction":"Right"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP01 - 丛林巅峰","details":"VEC-SP01 - 丛林巅峰"},"groups":[{"name":"都可以","opers":[{"name":"史尔特尔","skill":3,"skill_usage":1},{"name":"赫德雷","skill":3,"skill_usage":1}]}],"opers":[]}
