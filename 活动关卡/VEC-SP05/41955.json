@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1vecb_sp05","actions":[{"type":"Deploy","name":"银灰","location":[5,3],"direction":"Down"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"特别战线 VEC-SP05 - 伙友之影","details":"https://www.bilibili.com/video/BV1zD4LeMEot\n前夫哥还在发挥余热\n作业有问题别问，问就是不能用"},"groups":[],"opers":[{"name":"银灰","skill":3,"skill_usage":1}]}
