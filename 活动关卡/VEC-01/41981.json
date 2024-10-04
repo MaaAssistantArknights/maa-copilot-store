@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1vecb_01","actions":[{"type":"Deploy","name":"逻各斯","location":[6,3],"direction":"Left"},{"type":"Deploy","name":"山","location":[4,1],"direction":"Down"}],"doc":{"title":"VEC-01 - 拳拳生风","details":"刷级用VEC-01"},"groups":[],"opers":[{"name":"逻各斯","skill":1,"skill_usage":0},{"name":"山","skill":2,"skill_usage":2,"skill_times":1}]}
