@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1vecb_sp06","actions":[{"type":"Deploy","name":"拉普兰德","location":[4,2],"direction":"Down","costs":19},{"type":"SpeedUp"}],"doc":{"title":"VEC-SP06 - 酒厂英豪自用","details":"VEC-SP06 - 酒厂英豪自用"},"groups":[],"opers":[{"name":"拉普兰德","skill":1,"skill_usage":0}]}
