@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act37side_01","actions":[{"type":"Deploy","name":"近卫","location":[3,5],"direction":"Right"}],"doc":{"title":"追迹日落以西，自用","details":"搬自小鬼卡比"},"groups":[{"name":"近卫","opers":[{"skill_times":1,"name":"山","skill":2,"skill_usage":2},{"name":"煌","skill":2,"skill_usage":0}]}],"opers":[]}
