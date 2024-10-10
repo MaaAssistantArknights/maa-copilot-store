@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act37side_tr01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"摩根","location":[4,5],"direction":"Right"},{"type":"SpeedUp"}],"doc":{"title":"GO-TR-1 - 物资难题","details":"要手动点剧情"},"groups":[],"opers":[]}
