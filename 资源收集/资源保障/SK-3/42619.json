@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"wk_armor_3","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"逻各斯","location":[4,4],"direction":"Right","costs":21,"cost_changes":0}],"doc":{"title":"一步挂机 SK-3 高练度","details":"一步挂机 SK-3 高练度"},"groups":[],"opers":[{"skill_times":1,"name":"逻各斯","skill":1,"skill_usage":2}]}
