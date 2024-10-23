@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-12","actions":[{"type":"Skill","name":"银灰","location":[6,2]},{"type":"Skill","name":"棘刺","location":[6,1]}],"doc":{"title":"第一章 黑暗时代·下 - 1-12 - 代价","details":"刷每日的"},"groups":[],"opers":[{"name":"棘刺","skill":1,"skill_usage":0},{"name":"银灰","skill":1,"skill_usage":0}],"difficulty":0}
