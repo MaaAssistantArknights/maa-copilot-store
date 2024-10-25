@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_00-07","actions":[{"type":"Deploy","name":"阿米娅","location":[2,3],"direction":"None"}],"doc":{"title":"06","details":"06"},"groups":[],"opers":[{"name":"阿米娅","skill":1,"skill_usage":1}],"difficulty":1}
