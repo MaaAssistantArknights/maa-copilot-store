@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act38side_05","actions":[{"type":"Deploy","name":"乌尔比安","location":[8,3],"direction":"Left"}],"doc":{"title":"单核自用","details":"单核自用"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}]}

@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act38side_04","actions":[{"type":"Deploy","name":"乌尔比安","location":[7,3],"direction":"Left"},{"type":"Deploy","name":"黑角","location":[8,3],"direction":"None"}],"doc":{"title":"PV-4 - 体面来宾   单核自用","details":"PV-4 - 体面来宾   单核自用"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0},{"name":"黑角","skill":1,"skill_usage":0}]}
