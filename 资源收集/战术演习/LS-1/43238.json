@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"wk_kc_1","actions":[{"type":"Deploy","name":"逻各斯","location":[7,3],"direction":"Left"}],"doc":{"title":"战术演习 - LS-1 - 遭遇战演习","details":"战术演习 - LS-1 - 遭遇战演习"},"groups":[],"opers":[{"name":"逻各斯","skill":3,"skill_usage":1}]}
