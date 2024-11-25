@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_05","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"煌","location":[8,3],"direction":"Left"},{"type":"Deploy","name":"流明","location":[6,4],"direction":"Up"}],"doc":{"title":"火蓝之心·复刻 - OF-5 - 别阻止我","details":"自用"},"groups":[],"opers":[{"name":"流明","skill":2,"skill_usage":1},{"name":"煌","skill":2,"skill_usage":0}]}
