@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act39side_01","actions":[{"type":"Deploy","name":"煌","location":[4,5],"direction":"Left"},{"type":"SpeedUp"}],"doc":{"title":"EP-1 - 倒悬苍白海上","details":"EP-1 - 倒悬苍白海上"},"groups":[],"opers":[{"name":"煌","skill":2,"skill_usage":0}]}
