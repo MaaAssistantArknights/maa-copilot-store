@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act40side_02","actions":[{"type":"Deploy","name":"山","location":[2,3],"direction":"Right"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"OR-2 - 糖瓜粘","details":"使用作业前务必先进行maa的资源更新。"},"groups":[],"opers":[{"skill_times":1,"name":"山","skill":2,"skill_usage":2}]}

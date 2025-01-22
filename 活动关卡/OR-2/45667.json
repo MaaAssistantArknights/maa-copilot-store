@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act40side_02","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"山","location":[2,3],"direction":"None","costs":12}],"doc":{"title":"OR-2 - 糖瓜粘","details":"zc攻略"},"groups":[],"opers":[{"skill_times":1,"name":"山","skill":2,"skill_usage":2}]}

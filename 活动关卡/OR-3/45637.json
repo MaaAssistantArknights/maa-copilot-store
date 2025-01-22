@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act40side_03","actions":[{"type":"Deploy","name":"山","location":[4,5],"direction":"Right"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"OR-3 - 油泼扯面","details":"使用作业前务必先进行maa的资源更新。\n2903+模组3级山亲测可行。"},"groups":[],"opers":[{"skill_times":1,"name":"山","skill":2,"skill_usage":2}]}
