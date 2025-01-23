@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act40side_01","actions":[{"type":"Deploy","name":"山","location":[3,5],"direction":"Down"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"OR-1 - 一清二白","details":"B站ID：焕彩GG 主页：https://space.bilibili.com/10123796\n求关注。"},"groups":[],"opers":[{"name":"山","skill":2,"skill_usage":2,"skill_times":1}]}

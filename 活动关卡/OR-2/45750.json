@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act40side_02","actions":[{"type":"Deploy","name":"山","location":[2,3],"direction":"Up"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"OR-2 - 糖瓜粘","details":"B站ID：焕彩GG 主页：https://space.bilibili.com/10123796\n\n求关注。"},"groups":[],"opers":[{"name":"山","skill":2,"skill_usage":2,"skill_times":1}]}
