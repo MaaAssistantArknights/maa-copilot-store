@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"wk_melee_6","actions":[{"type":"Deploy","name":"史尔特尔","location":[1,1],"direction":"None","kills":450}],"doc":{"title":"货物运送 - CE-6 - 实验原件押运","details":"货物运送 - CE-6 - 实验原件押运"},"groups":[],"opers":[{"name":"史尔特尔","skill":1,"skill_usage":0}]}
