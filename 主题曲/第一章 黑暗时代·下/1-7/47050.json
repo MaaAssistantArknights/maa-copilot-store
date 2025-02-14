@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"隐德来希","location":[1,3],"direction":"Right"},{"type":"SpeedUp"}],"doc":{"title":"隐德来希在1-7刷信赖","details":"隐德来希单刷1-7，建议勾选自动编队-补充低信赖干员"},"groups":[],"opers":[{"name":"隐德来希","skill":1,"skill_usage":0}]}
