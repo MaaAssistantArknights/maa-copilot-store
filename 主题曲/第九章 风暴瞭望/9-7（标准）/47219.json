@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_09-06","actions":[{"type":"Deploy","name":"维什戴尔","location":[2,3],"direction":"Right"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"第九章 风暴瞭望 - 9-7（标准） - 捉迷藏 - 单核","details":"兼容突袭\nEW满级，专3，三级模组\n持续更新中，作业交流群789724611，如果作业有问题可以加群找我，评论区不能及时回复"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}],"difficulty":3}
