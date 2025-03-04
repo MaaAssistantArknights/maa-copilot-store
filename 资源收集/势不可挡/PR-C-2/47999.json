@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"pro_c_2","actions":[{"type":"Deploy","name":"娜仁图亚","location":[4,4],"direction":"Right"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"辅助 先锋 芯片组  PR-C-2 - 冲锋","details":"JSON：不会玩的辅助\n辅助 先锋 芯片组"},"groups":[],"opers":[{"name":"娜仁图亚","skill":1,"skill_usage":2,"skill_times":1}]}
