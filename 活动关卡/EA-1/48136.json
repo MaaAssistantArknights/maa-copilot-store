@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act41side_01","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"维什戴尔","location":[3,4],"direction":"Right"},{"type":"SkillDaemon"}],"doc":{"title":"【挽歌燃烧殆尽】EA-1 维什戴尔单核","details":"原作者：一定有更好的办法 \nJSON作者：一定有更好的办法\n链接：https://www.bilibili.com/video/BV1w391YrEpq"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}
