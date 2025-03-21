@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_01","actions":[{"type":"Deploy","name":"逻各斯","location":[6,2],"direction":"None"},{"type":"Deploy","name":"寻澜","location":[5,3],"direction":"None"}],"doc":{"title":"无","details":"无"},"groups":[],"opers":[{"name":"逻各斯"},{"name":"寻澜","skill":1,"skill_usage":0}]}

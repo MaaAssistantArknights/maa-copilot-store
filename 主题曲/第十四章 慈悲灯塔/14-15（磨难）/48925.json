@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"tough_14-13","actions":[{"type":"Deploy","name":"维什戴尔","location":[2,3],"direction":"Right"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"第十四章 慈悲灯塔 - 14-15（磨难） - 突破外围防线 - 单核","details":"JSON作者小卡拉帕鲁灰\n维满级，专3，三级模组\n持续更新中，作业交流群789724611，如果作业有问题可以加群找我，评论区不能及时回复"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}
