@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"camp_r_09","actions":[{"type":"Deploy","name":"桃金娘","location":[1,4],"direction":"Right","pre_delay":0}],"doc":{"title":"维多利亚 - 小丘郡郊野 - 小丘郡郊野","details":"桃金娘技能好了就开"},"groups":[],"opers":[{"name":"桃金娘","skill":1,"skill_usage":1}]}
