@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_01","actions":[{"type":"Deploy","name":"乌尔比安","location":[1,1],"direction":"Down"}],"doc":{"title":"火蓝之心·复刻 - OF-1 - 火山制造","details":"自用"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}]}
