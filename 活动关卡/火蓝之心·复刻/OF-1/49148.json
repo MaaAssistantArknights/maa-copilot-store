@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"a003_01","actions":[{"type":"Deploy","name":"棘刺","location":[5,3],"direction":"Right","costs":20},{"type":"Deploy","name":"死芒","location":[5,4],"direction":"Right","costs":22}],"doc":{"title":"火蓝之心·复刻 - OF-1 - 火山制造","details":"自用\n"},"groups":[],"opers":[{"name":"棘刺","skill":1,"skill_usage":1},{"name":"死芒","skill":1,"skill_usage":1}]}
