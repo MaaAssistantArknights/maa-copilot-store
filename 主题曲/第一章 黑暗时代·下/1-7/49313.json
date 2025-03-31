@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"死芒","location":[1,2],"direction":"Right"}],"doc":{"title":"1-7自用","details":"1-7自用"},"groups":[],"opers":[{"name":"死芒","skill":3,"skill_usage":1}],"difficulty":0}
