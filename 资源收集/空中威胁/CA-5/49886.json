@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"wk_fly_5","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"娜仁图亚","location":[3,5],"direction":"Right"},{"type":"SkillDaemon"}],"doc":{"title":"娜仁图亚1技能书CA-5","details":"自用，周二三五日"},"groups":[],"opers":[{"name":"娜仁图亚","skill":1,"skill_usage":2,"skill_times":1}]}
