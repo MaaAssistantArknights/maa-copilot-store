@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act16side_ex03","actions":[{"type":"Deploy","name":"伊内丝","location":[3,3],"direction":"Right","kills":0,"costs":11,"cost_changes":0,"pre_delay":0,"rear_delay":0},{"type":"SpeedUp","kills":0,"costs":0}],"doc":{"title":"GA-EX-3","details":"自用"},"groups":[],"opers":[{"name":"伊内丝","skill":2,"skill_usage":0}],"difficulty":3}
