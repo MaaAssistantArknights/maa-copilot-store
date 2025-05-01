@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act42side_02","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"山","location":[6,5],"direction":"Left"},{"type":"SkillDaemon"}],"doc":{"title":"MT-2 祈祷","details":"手操测试已过（maa测试已过）\n山2603 3x"},"groups":[],"opers":[{"name":"山","skill":2,"skill_usage":2,"skill_times":1}]}
