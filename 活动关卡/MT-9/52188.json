@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act42side_09","actions":[{"type":"Deploy","name":"乌尔比安","location":[7,1],"direction":"Right"},{"type":"SpeedUp"}],"doc":{"title":"MT-9 - 解经","details":"参考 up 紧急失控的打法"},"groups":[],"opers":[{"name":"乌尔比安","skill":2,"skill_usage":0}]}
