@@ -1,1 +1,1 @@
-# maa-copilot-store
+# zoot-plus-store
