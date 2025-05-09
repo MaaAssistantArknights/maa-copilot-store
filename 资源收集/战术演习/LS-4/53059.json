@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"wk_kc_4","actions":[{"type":"SpeedUp"},{"type":"Deploy","name":"阿斯卡纶","location":[5,3],"direction":"None"},{"type":"Skill","name":"阿斯卡纶","location":[5,3]},{"type":"SkillUsage","name":"阿斯卡纶","skill_usage":0}],"doc":{"title":"战术演习 - LS-4","details":"自用"},"groups":[],"opers":[{"name":"阿斯卡纶","skill":1,"skill_usage":0}]}
