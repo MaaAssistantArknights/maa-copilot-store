@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"hard_06-01","actions":[{"type":"Deploy","name":"杰西卡","location":[0,0],"direction":"Down"}],"doc":{"title":"第六章 局部坏死 - H6-1 - 冰狱行动-1","details":"第六章 局部坏死 - H6-1 - 冰狱行动-1"},"groups":[],"opers":[{"name":"杰西卡","skill":1,"skill_usage":1}],"difficulty":0}
