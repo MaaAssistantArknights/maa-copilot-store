@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp01","actions":[{"type":"Deploy","name":"斯卡蒂","location":[3,1],"direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP01 - 何必匆忙","details":"json作者：萨拉托加\n作业交流群群号1009052305，可蹲作业，有问题进群找我，作业站消息没提醒看不到"},"groups":[],"opers":[{"name":"斯卡蒂","skill":2,"skill_usage":0}]}

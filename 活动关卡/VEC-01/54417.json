@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_01","actions":[{"type":"SpeedUp","costs":12},{"type":"Deploy","name":"维什戴尔","location":[1,4],"direction":"Right","costs":25},{"type":"Skill","costs":27,"name":"维什戴尔","location":[1,4]}],"doc":{"title":"VEC-01 - 横冲直进 维什戴尔单人","details":"VEC-01 - 横冲直进 维什戴尔单人"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":0}]}
