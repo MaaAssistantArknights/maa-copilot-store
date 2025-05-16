@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp02","actions":[{"type":"Deploy","name":"W","location":[1,2],"direction":"Right","costs":0},{"type":"SpeedUp"}],"doc":{"title":"VEC-SP02 - 无暇分心","details":"w精二1级技能四级无潜能无模组，目前没测试过练度高会不会影响过关。"},"groups":[],"opers":[{"name":"W","skill":2,"skill_usage":0}],"difficulty":0}

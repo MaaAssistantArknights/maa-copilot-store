@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp02","actions":[{"type":"Deploy","name":"拉普兰德","location":[1,3],"direction":"Up"},{"type":"SpeedUp"},{"type":"Output","doc_color":"#d63384","doc":"YALOR.感谢使用。"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP02 - 无暇分心","details":"作业改自：萧然Q\n测试使用：2503拉普兰德"},"groups":[],"opers":[{"name":"拉普兰德","skill":2,"skill_usage":0}]}

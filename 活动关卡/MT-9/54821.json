@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act42side_09","actions":[{"type":"Deploy","name":"维什戴尔","location":[5,3],"direction":"Up","kills":0,"costs":25,"cost_changes":0}],"doc":{"title":"MT-9 - 解经","details":"ew单人"},"groups":[],"opers":[{"name":"维什戴尔"}],"difficulty":0}
