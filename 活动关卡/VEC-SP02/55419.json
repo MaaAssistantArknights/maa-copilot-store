@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp02","actions":[{"type":"Deploy","name":"拉普兰德","location":[1,3],"direction":"Up"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP02 - 无暇分心","details":"JSON作者小卡拉帕鲁灰\n拉狗精二60，专3技能\n持续更新中，作业交流群789724611，如果作业有问题可以加群找我，评论区不能及时回复"},"groups":[],"opers":[{"name":"拉普兰德","skill":2,"skill_usage":0}]}
