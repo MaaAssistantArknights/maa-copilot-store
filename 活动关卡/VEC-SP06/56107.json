@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp06","actions":[{"type":"Deploy","name":"能天使","location":[6,4],"direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP06 - 择人而噬","details":"B站ID：焕彩GG 主页：https://space.bilibili.com/10123796\n本作业已开启截图增强\n求关注。"},"groups":[],"opers":[{"name":"能天使","skill":3,"skill_usage":0}]}
