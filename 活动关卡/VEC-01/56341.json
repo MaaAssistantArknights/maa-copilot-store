@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_01","actions":[{"type":"SpeedUp","kills":0},{"type":"Deploy","name":"维什戴尔","location":[1,4],"direction":"Right","kills":0},{"type":"Skill","name":"维什戴尔","location":[1,4],"kills":2}],"doc":{"title":"VEC-01 刷（自用）","details":"VEC-01 刷（自用）"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":0}]}
