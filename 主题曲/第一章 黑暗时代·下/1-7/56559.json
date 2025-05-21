@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"阿","location":[5,4],"direction":"Left","costs":50}],"doc":{"title":"测试作业","details":"测试作业"},"groups":[],"opers":[]}
