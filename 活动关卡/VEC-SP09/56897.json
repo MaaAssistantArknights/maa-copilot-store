@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp09","actions":[{"type":"Deploy","name":"黑键","location":[5,3],"direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP09 - 风尘仆仆","details":"https://www.bilibili.com/video/BV1GdJJzLEUV"},"groups":[],"opers":[{"name":"黑键","skill":3,"skill_usage":1}]}
