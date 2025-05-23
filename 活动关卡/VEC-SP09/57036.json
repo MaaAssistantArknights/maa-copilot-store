@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp09","actions":[{"type":"Deploy","name":"水月","location":[4,3],"direction":"Left"},{"type":"SpeedUp"},{"type":"SkillDaemon"}],"doc":{"title":"VEC-SP09 - 风尘仆仆","details":"自用"},"groups":[],"opers":[{"name":"水月","skill":2,"skill_usage":1}]}
