@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"act1break_sp06","actions":[{"type":"Deploy","name":"维什戴尔","location":[3,4],"direction":"Right"}],"doc":{"title":"VEC-SP06 - 择人而噬","details":"用于只差特别活动就全刻章的使用"},"groups":[],"opers":[{"name":"维什戴尔","skill":3,"skill_usage":1}]}
